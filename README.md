@@ -1,2 +1,2 @@
 # sdcurl
-NOTE: sdsqlite for bjsdwl commlibs library, DO NOT DELETE IT!
+NOTE: sdcurl for bjsdwl commlibs library, DO NOT DELETE IT!
